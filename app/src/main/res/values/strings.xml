@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PiDigits</string>
+	<string name="calculate">Calcular!</string>
+	<string name="hint"># dígitos</string>
+	<string name="time">Time elapsed:</string>
+    <string name="copy">Dígitos copiados</string>
+    <array name="array">
+        <item name="item1">Copy</item>
+    </array>
+</resources>
